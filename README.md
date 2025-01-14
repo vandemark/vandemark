@@ -2,7 +2,7 @@
 
 # [WIP] Play Pokémon in This README!
 
-![Live Pokémon Gameplay](http://34.229.1.130:5000/gameplay.gif)
+![Live Pokémon Gameplay](http://34.229.1.130:5000/gameplay.gif?)
 
 ## Make Your Move
 Click on a move below to interact with the game:
