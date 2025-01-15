@@ -7,13 +7,13 @@
 ## Make Your Move
 Click on a move below to interact with the game:
 
-- [⬆️ UP](https://yourserver.com/move?input=up)
-- [⬇️ DOWN](https://yourserver.com/move?input=down)
-- [⬅️ LEFT](https://yourserver.com/move?input=left)
-- [➡️ RIGHT](https://yourserver.com/move?input=right)
-- [🅰️ A](https://yourserver.com/move?input=a)
-- [🅱️ B](https://yourserver.com/move?input=b)
-- [START](https://yourserver.com/move?input=start)
+- [⬆️ UP](TBD)
+- [⬇️ DOWN](TBD)
+- [⬅️ LEFT](TBD)
+- [➡️ RIGHT](TBD)
+- [🅰️ A](TBD)
+- [🅱️ B](TBD)
+- [START](TBD)
 
 
 <!--
