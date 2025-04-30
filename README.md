@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+# [WIP] Play Pokémon in This README!
+
+![Live Pokémon Gameplay](http://34.229.1.130:5000/gameplay.gif?)
+
+## Make Your Move
+Click on a move below to interact with the game:
+
+- [⬆️ UP](TBD)
+- [⬇️ DOWN](TBD)
+- [⬅️ LEFT](TBD)
+- [➡️ RIGHT](TBD)
+- [🅰️ A](TBD)
+- [🅱️ B](TBD)
+- [START](TBD)
+
+
 <!--
 **vandemark/vandemark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
